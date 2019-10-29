@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/xulinfeng/ccl/edit/master/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+![](<http://img.chinajoy.net/banner/1563784852565.jpg>)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
